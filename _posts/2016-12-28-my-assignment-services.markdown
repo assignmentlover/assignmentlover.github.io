@@ -6,10 +6,10 @@ categories: jekyll update
 ---
 
 ### 服务内容
-代写Computer Science编程作业，范围包括Assignment, Homework, Lab, Project和Final。不写Essay/Paper，不代考试，不写毕业论文。
+＊ 代写Computer Science编程作业，范围包括Assignment, Homework, Lab, Project和Final。不写Essay/Paper，不代考试，不写毕业论文。
 
 ### 时间
-小作业24小时内完成，大作业24-72小时，绝不浪费你的slip day。
+＊ 小作业24小时内完成，大作业24-72小时，绝不浪费你的slip day。
 
 ### 质量保证
 * 熟读你的assignment description，参考课程slides和notes，为你量身打造，绝无超纲代码。熟知各年级课程的得分点，轻松帮你提分。
@@ -25,17 +25,13 @@ categories: jekyll update
 
 ### 价格
 
-真正的无中介费用，assignment/Homework的价格通常在90 USD以上，Exercise/Lab稍低。欢迎你货比三家。
+＊ 真正的无中介费用，assignment/Homework的价格通常在90 USD以上，Exercise/Lab稍低。欢迎你货比三家。
 
-支持PayPal/支付宝/微信支付。
+＊ 支持PayPal/支付宝/微信支付。
 
 ### 联系方式
 
-为了节省时间，方便报价，询问时麻烦附上你的年级和课程名，如：
-
-大二，Algorithm and Data Structure
-
-作业要求请发送至 byang7924@gmail.com，同时微信我：xxhh8688
+＊ 为了节省时间，方便报价，询问时麻烦附上你的年级和课程名，如：大二，Algorithm and Data Structure，作业要求请发送至byang7924@gmail.com，同时微信我：xxhh169
 
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
