@@ -25,7 +25,7 @@ categories: jekyll update
 
 ### 价格
 
-真正的无中介费用，assignment/Homework的价格通常在90 USD以上，Exercise/Lab稍低。，欢迎你货比三家。
+真正的无中介费用，assignment/Homework的价格通常在90 USD以上，Exercise/Lab稍低。欢迎你货比三家。
 
 支持PayPal/支付宝/微信支付。
 
