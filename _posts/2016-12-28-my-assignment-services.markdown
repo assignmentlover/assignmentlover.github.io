@@ -12,15 +12,15 @@ categories: jekyll update
 小作业24小时内完成，大作业24-72小时，绝不浪费你的slip day。
 
 ### 质量保证
-熟读你的assignment description，参考课程slides和notes，为你量身打造，绝无超纲代码。熟知各年级课程的得分点，轻松帮你提分。
+* 熟读你的assignment description，参考课程slides和notes，为你量身打造，绝无超纲代码。熟知各年级课程的得分点，轻松帮你提分。
 
-带checker/tester的必全过，带得分点的必全做，能顺手做掉的bonus也帮你做。
+* 带checker/tester的必全过，带得分点的必全做，能顺手做掉的bonus也帮你做。
 
-代码肯定是手写原创，不违反honor code，我给你的代码属于reference。
+* 代码肯定是手写原创，不违反honor code，我给你的代码属于reference。
 
-免费提供售后服务，包括代码运行，讲解答疑。
+* 免费提供售后服务，包括代码运行，讲解答疑。
 
-我给你的不止是一个答案，还有我作为全栈工程师的经验，编程方法和技巧。
+* 我给你的不止是一个答案，还有我作为全栈工程师的经验，编程方法和技巧。
 
 
 ### 价格
