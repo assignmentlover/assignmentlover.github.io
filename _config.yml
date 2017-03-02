@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "CS&CSE作业辅导"
+title: CS&CSE作业辅导
 email: byang7924@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   计算机专业CS&CSE编程作业辅导.
@@ -27,7 +27,7 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
- google_analytics: UA-92951622-1
+google_analytics: UA-92951622-1
 exclude:
   - Gemfile
   - Gemfile.lock
