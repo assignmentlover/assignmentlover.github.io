@@ -5,23 +5,27 @@ date:   2018-03-10 16:36:21 +0100
 categories: jekyll update
 ---
 
-#### 服务内容
-辅导Computer Science编程作业，范围包括Assignment, Homework, Lab, Project和Final。不写Essay/Paper，不代考试，不写毕业论文。
+#### submit vs execute java
+	
+	public SubmitVsExecute() {
+	    System.out.println("");
+	    ExecutorService service = Executors.newFixedThreadPool(2);
+	    for (int i = 0; i < 2; i++) {
+	        int a = 4, b = 0;
+	        service.execute(new Runnable() {
+	            @Override
+	            public void run() {
+	                System.out.println(a / b);
+	                System.out.println("Thread name in runnable after divided 0" + Thread.currentThread().getName());
+	            }
+	        });
+	        service.shutdown();
+	    }
+	}
 
-### 时间
-小作业24小时内，大作业24-72小时，绝不浪费你的slip day。
-
-#### 质量保证
-* 熟读你的assignment description，参考课程slides和notes，为你量身打造，绝无超纲代码。熟知各年级课程的得分点，轻松帮你提分。
-
-* 带checker/tester的必全过，带得分点的必全做，能顺手做掉的bonus也帮你做。
-
-* 代码肯定是手写原创，不违反honor code，我给你的代码属于reference。
-
-* 免费提供售后服务，包括代码运行，讲解答疑。
-
-* 我给你的不止是一个答案，还有我作为全栈工程师的经验，编程方法和技巧。
-
+* execute执行Runnable，submit执行Callable
+* execute返回Void，submit返回Future
+* execute执行的runnable发生异常的时候，外界不能catch，submit可以通过future.get感知到
 
 #### 价格
 
