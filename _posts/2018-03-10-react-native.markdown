@@ -6,23 +6,28 @@ categories: jekyll update
 ---
 
 #### submit vs execute java
-	
-	public SubmitVsExecute() {
-	    System.out.println("");
-	    ExecutorService service = Executors.newFixedThreadPool(2);
-	    for (int i = 0; i < 2; i++) {
-	        int a = 4, b = 0;
-	        service.execute(new Runnable() {
-	            @Override
-	            public void run() {
-	                System.out.println(a / b);
-	                System.out.println("Thread name in runnable after divided 0" + Thread.currentThread().getName());
-	            }
-	        });
-	        service.shutdown();
-	    }
-	}
+```    
+public SubmitVsExecute() {
+    System.out.println("");
+    ExecutorService service = Executors.newFixedThreadPool(2);
+    for (int i = 0; i < 2; i++) {
+        int a = 4, b = 0;
+        service.execute(new Runnable() {
+            @Override
+            public void run() {
+                System.out.println(a / b);
+                System.out.println("Thread name in runnable after divided 0" + Thread.currentThread().getName());
+            }
+        });
+        service.shutdown();
+    }
+}
 
+```
+constructor() {
+    this.state = {isReady: false};
+}
+```
 * execute执行Runnable，submit执行Callable
 * execute返回Void，submit返回Future
 * execute执行的runnable发生异常的时候，外界不能catch，submit可以通过future.get感知到
