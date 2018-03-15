@@ -5,6 +5,9 @@ date:   2018-03-10 16:36:21 +0100
 categories: jekyll update
 ---
 
+#### Grid 实现
+* numColumns = {2}
+
 #### submit vs execute java
 ```    
 public SubmitVsExecute() {

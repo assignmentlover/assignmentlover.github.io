@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Drupal 8 开发"
+date:   2018-03-11 16:36:21 +0100
+categories: jekyll update
+---
+
+#### Field plugin
+* Field widget is the form interface for editing a field
+
+* Field formatter define the way in which a field type will be presented
+
+#### Plugin type
+* plugin interface，每个plugin都应该实现的接口
+* plugin annotation，注解，定义plugin的properties
+* check https://github.com/upchuk/d8-demo-modules/blob/master/reusable_forms
+* drupal gpta
